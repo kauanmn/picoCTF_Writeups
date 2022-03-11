@@ -56,7 +56,7 @@ The `chr(ord(x) + ord(y))` part of the code is combining two pieces of informati
 
 The first part `(ord(flag[i]) << 8)` is converting the character in `i` position to a number, and then making a bitwise left shift operation. Let's see an example:
 
-<img src="https://user-images.githubusercontent.com/23441506/157913664-23b4462b-3bf6-45f4-ad11-f89167a747b1.png" width="350px">
+<img src="https://user-images.githubusercontent.com/23441506/157932707-e84ebdf6-ef7c-4685-acca-205a8d6b6139.png" width="450px">
 
 <br>
 
