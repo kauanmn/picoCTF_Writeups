@@ -233,14 +233,4 @@ ans = bytes.fromhex(hex(big_integer_number)[2:]).decode('ascii')
 print(ans)
 ```
 The `big_integer_number` is our last question answer (the plain text). This will give us the flag:
-`picoCTF{wA8_th4t$_ill3aGal..ode01e4bb}`
-
-
-
-
-
-
-
-
-
-
+`picoCTF{wA8_th4t$_ill3aGal..XXXXXXXXX}`
