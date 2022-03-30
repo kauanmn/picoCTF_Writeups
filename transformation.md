@@ -177,7 +177,3 @@ print(decrypt(flag))
 ```
 
 The flag will be then printed: `picoCTF{16_bits_inst34d_of_8_xxxxxxxx}`
-
-
-
-
