@@ -166,9 +166,9 @@ window.onload = function() {
 
 ```
 
-Again, we can find another part of the flag at the bottom of the code: `_lucky?2e7b23e3}`.
+Again, we can find another part of the flag at the bottom of the code: `_lucky?XXXXXXXX}`.
 
-Combining the 3 parts of the flag, we have `picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?2e7b23e3}`
+Combining the 3 parts of the flag, we have `picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?XXXXXXXX}`
 
 ---
 
