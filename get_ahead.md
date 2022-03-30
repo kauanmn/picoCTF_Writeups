@@ -97,7 +97,7 @@ Content-type: text/html; charset=UTF-8
 ```
 
 
-The flag is `picoCTF{r3j3ct_th3_du4l1ty_8f878508}`
+The flag is `picoCTF{r3j3ct_th3_du4l1ty_XXXXXXXX}`
 
 
 ---
