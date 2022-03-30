@@ -158,4 +158,3 @@ The flag is `picoCTF{7f9da29f40499a98db220380a57746a4}`
 ## Conclusion
 
 It is a great challenge to practice your cryptography and programming knowledge. You have to analyze the code to find the vulnerable piece of code, which explores one of the essentials points of OTP technique. By the way, there are a lot of more advanced and sophisticated solutions to this challenge, but we try to keep it simple and accessible, because the most important thing of the challenges are the concepts underneath.
-
